@@ -7,6 +7,7 @@ public class Array2 {
         marks[2] = 80;
         marks[3] = 70;
         marks[4] = 60;
+        System.out.println("github is working");
         for (int i =(marks.length-1);i>=0;i--){
             System.out.println(marks[i]);
         }
